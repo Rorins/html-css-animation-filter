@@ -62,9 +62,18 @@
 /*sixth ex */
 .ex-6-img {
   width: 500px;
-  transition: 3s;
 }
 
 .ex-6-img:hover {
+  filter: grayscale(2);
+}
+
+/*seventh ex */
+.ex-7-img {
+  width: 500px;
+  transition: 3s;
+}
+
+.ex-7-img:hover {
   filter: grayscale(2);
 }
