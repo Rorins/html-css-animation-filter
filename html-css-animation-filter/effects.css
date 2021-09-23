@@ -77,3 +77,15 @@
 .ex-7-img:hover {
   filter: grayscale(2);
 }
+
+/*eight ex */
+.ex-8-img {
+  width: 500px;
+  transition: 2s;
+}
+
+.ex-8-img:hover {
+  border-radius: 50%;
+  filter: grayscale(2);
+  transform: scale(0.3);
+}
