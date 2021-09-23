@@ -58,3 +58,13 @@
 .ex-5-square:hover {
   transform: scale(0.8);
 }
+
+/*sixth ex */
+.ex-6-img {
+  width: 500px;
+  transition: 3s;
+}
+
+.ex-6-img:hover {
+  filter: grayscale(2);
+}
