@@ -22,6 +22,7 @@
   width: 500px;
 }
 
+/*third ex transition*/
 .ex-3-square {
   width: 100px;
   height: 100px;
@@ -33,6 +34,7 @@
   border-radius: 50%;
 }
 
+/*fourth ex transition*/
 .ex-4-square {
   width: 100px;
   height: 100px;
@@ -42,4 +44,17 @@
 
 .ex-4-square:hover {
   opacity: 0;
+}
+
+/*fifth ex transition*/
+.ex-5-square {
+  margin: 20px;
+  width: 60px;
+  height: 60px;
+  background: red;
+  transform: scale(0.3);
+}
+
+.ex-5-square:hover {
+  transform: scale(0.8);
 }
