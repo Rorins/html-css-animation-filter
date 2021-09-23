@@ -88,7 +88,7 @@
   filter: grayscale(2) blur(20px);
   border-radius: 50%;
 }
-
+/*ninth ex */
 .ex-9-img {
   margin: 50px 100px;
   width: 400px;
@@ -99,4 +99,18 @@
   filter: grayscale(2) blur(20px);
   transform: scale(0.8);
   border-radius: 50%;
+}
+/*tenth ex */
+.ex-10-icon {
+  font-size: 60px;
+}
+
+.ex-10-icon {
+  animation: spinning 1s infinite linear;
+}
+
+@keyframes spinning {
+  0% {
+    transform: rotate(2turn);
+  }
 }
